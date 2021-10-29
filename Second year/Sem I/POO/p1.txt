@@ -1,0 +1,8 @@
+package problema1;
+
+//1. Compilați si lansatți în execuție programul “Hello World!” dat ca exemplu în Secțiunea 1.2.6.
+class problema1 {
+    public static void main(String[] args){
+        System.out.println("Hello, world!");
+    }
+}
